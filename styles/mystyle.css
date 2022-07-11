@@ -16,3 +16,23 @@
   justify-content: flex-end;
   margin: 1rem;
 }
+
+.title{
+  text-align: center;
+
+}
+.display-1{
+  text-align: center;
+  text-decoration: none;
+  font: 1rem;
+}
+.footer-1{
+  text-align: center;
+  text-decoration: none;
+  font: 1rem;
+}
+.nav{
+  text-align: center;
+  text-decoration: none;
+  
+}
