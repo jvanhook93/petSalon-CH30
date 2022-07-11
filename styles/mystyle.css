@@ -1,5 +1,6 @@
 @import "bootstrap/scss/bootstrap";
 
+
 .pets{
   display: grid;
   grid-template-columns: repeat(3,1fr);
@@ -8,8 +9,8 @@
 }
 
 .pet{
-  border:1px solid #dedede;
-  background-color: #dedede;
+  border:1px solid #cf6161;
+  background-color: #962828;
 }
 .btn-container{
   display: flex;
@@ -19,20 +20,27 @@
 
 .title{
   text-align: center;
+  font: red;
 
 }
 .display-1{
   text-align: center;
   text-decoration: none;
   font: 1rem;
+  font: red;
 }
 .footer-1{
   text-align: center;
   text-decoration: none;
   font: 1rem;
 }
-.nav{
+.nav-item{
   text-align: center;
   text-decoration: none;
-  
+
+}
+
+.nav-item{
+  align-content: center;
+  font: red;
 }

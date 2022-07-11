@@ -88,7 +88,7 @@ function register(){
   petSaloon.pets.push(newPet);
   if(isValid(newPet)){
   displayCardPets();
-  console.log(petsaloon.pets);
+  console.log(petSaloon.pets);
   displayNumberOfPets();
   clearInputs();
   }
